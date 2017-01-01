@@ -1,4 +1,4 @@
-#基金成果展示  
+# 成果展示  
 相关论文成果展示如下<br>
 1、	Learning bilingual sentiment word embeddings for cross-language sentiment classification<br>
 2、	Hedge Scope Detection in Biomedical Texts: An Effective Dependency-Based Method<br>
